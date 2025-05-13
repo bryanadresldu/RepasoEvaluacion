@@ -1,5 +1,4 @@
 package repaso1;
-
 public class Main {
     public static void main(String[] args) {
         //creacion de 5 instancias de la clase (con valores quemados)
